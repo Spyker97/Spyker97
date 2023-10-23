@@ -2,10 +2,11 @@
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
 - 🔭 I’m currently working on [Smart-Youth](https://github.com/Spyker97/Smart-Youth)
+  
+- 🔭 I’m currently working on [ECommerceApp]([https://github.com/Spyker97/Smart-Youth](https://github.com/Spyker97/ECommerceApp))
 
 - 🌱 I’m currently learning **AWS Cloud Technical Essentials**
 
-- 📫 How to reach me **ahmedbhd97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
