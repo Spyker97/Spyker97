@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **AWS Cloud Technical Essentials**
 
+- 📫 How to reach me **ahmedbhd97@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-ben-hadid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ben-hadid" height="30" width="40" /></a>
