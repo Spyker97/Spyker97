@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Ahmed BEN HADID profile!</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+
 
 - 🔭 I’m currently working on [Smart-Youth](https://github.com/Spyker97/Smart-Youth)
   
