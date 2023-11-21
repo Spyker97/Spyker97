@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m currently working on [Smart-Youth](https://github.com/Spyker97/Smart-Youth)
-  
-- 🔭 I’m currently working on [ECommerceApp]([https://github.com/Spyker97/Smart-Youth](https://github.com/Spyker97/ECommerceApp))
 
 - 🌱 I’m currently learning **AWS Cloud Technical Essentials**
 
