@@ -12,7 +12,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming and markup languages
+### 👨‍💻 Programming languages
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
@@ -38,7 +38,7 @@
   </p>
 
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases 
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
