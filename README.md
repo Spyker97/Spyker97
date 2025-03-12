@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [projectOA(e-commerce project)](https://github.com/Spyker97/projectOA.git)
 
-- 🌱 I’m currently learning **AWS Cloud Technical Essentials**
 
 
 <h3 align="left">Connect with me:</h3>
